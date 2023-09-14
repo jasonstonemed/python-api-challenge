@@ -1,7 +1,3 @@
-Of course! Here's the README for **WeatherPy and VacationPy** without code blocks:
-
----
-
 # WeatherPy and VacationPy
 
 ![WeatherPy](WeatherPy/images/weatherpy_map.png)
@@ -97,17 +93,3 @@ To use WeatherPy and VacationPy, follow these steps:
 
 ![WeatherPy Sample Output](WeatherPy/images/weatherpy_sample.png)
 ![VacationPy Sample Output](VacationPy/images/vacationpy_sample.png)
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-
-2. Create a new branch for your feature or bug fix.
-
-3. Make your changes.
-
-4. Test your changes.
-
-5. Commit your changes and create a pull request.
