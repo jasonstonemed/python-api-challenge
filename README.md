@@ -86,8 +86,6 @@ To use WeatherPy and VacationPy, follow these steps:
 
 ## Sample Output
 
-![WeatherPy Sample Output](WeatherPy/images/weatherpy_sample.png)
-![VacationPy Sample Output](VacationPy/images/vacationpy_sample.png)
-
+See sample output images in Starter_Code/starter_code/output_data
 
 Credit to ChatGPT for teaching me how to create readme files
