@@ -20,7 +20,6 @@ VacationPy complements WeatherPy by using the weather data collected to identify
 - How It Works
 - Sample Output
 - Contributing
-- License
 
 ## Prerequisites
 
@@ -90,3 +89,6 @@ To use WeatherPy and VacationPy, follow these steps:
 
 ![WeatherPy Sample Output](WeatherPy/images/weatherpy_sample.png)
 ![VacationPy Sample Output](VacationPy/images/vacationpy_sample.png)
+
+
+Credit to ChatGPT for teaching me how to create readme files
