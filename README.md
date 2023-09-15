@@ -19,7 +19,6 @@ VacationPy complements WeatherPy by using the weather data collected to identify
 - Usage
 - How It Works
 - Sample Output
-- Contributing
 
 ## Prerequisites
 
