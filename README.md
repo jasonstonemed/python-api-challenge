@@ -1,8 +1,5 @@
 # WeatherPy and VacationPy
 
-![WeatherPy](WeatherPy/images/weatherpy_map.png)
-![VacationPy](VacationPy/images/vacationpy_map.png)
-
 ## Overview
 
 **WeatherPy and VacationPy** are two Python projects that use various libraries, APIs, and data analysis techniques to gather and visualize weather data and identify ideal vacation spots based on specific criteria.
